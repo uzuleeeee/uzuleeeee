@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science (undergraduate) at Georgia Tech.
 - 💞️ I’m looking to collaborate on projects related to my interests.
 
+Blog: https://medium.com/@chris0803lee
 Games: https://chris-lee.itch.io
 
 <!---
